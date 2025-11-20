@@ -1,0 +1,65 @@
+[[CURRENCIES]]
+code="TAGC"
+issuer="GDIHIJFAJG2JQBTZ27WRGF6NZWEZRU62OAYVRLMOLFJCPP4RPNWGOMMZ"
+name="Tagsy Protocol"
+desc="TAGC (Tagsy Credit) is the utility token powering the Tagsy Protocol - a product authentication and identity system that enables producers, marketplaces, and validators to cooperate on a shared, verifiable record of products. TAGC is required for all protocol operations including minting product identities, registering sales, and validator staking."
+image="https://YOUR-GITHUB-USERNAME.github.io/tagc-token/images/tagc-logo.png"
+
+display_decimals=7
+is_unlimited=true
+is_asset_anchored=false
+anchor_asset_type="utility"
+redemption_instructions="TAGC is a protocol utility token used within the Tagsy ecosystem for product authentication and verification services."
+
+[[DOCUMENTATION]]
+org_name="Tagsy Protocol"
+org_url="https://www.tagsy.org"
+org_logo="https://YOUR-GITHUB-USERNAME.github.io/tagc-token/images/tagsy-logo.png"
+org_official_email="contact@tagsy.org"
+
+[[PRINCIPLES]]
+name="Utility Token"
+value="TAGC is used exclusively for protocol operations and has no speculative purpose"
+
+[[PRINCIPLES]]
+name="Consumption-Based"
+value="Every TAGC transaction represents a real protocol action: minting, verification, or staking"
+
+[[PRINCIPLES]]
+name="Transparent Economics"
+value="All fee structures and royalty splits are publicly defined in the protocol specification"
+
+[[PRINCIPLES]]
+name="Core Functions"
+value="Mint Roots, Branches, and PIDs | Register sales and refunds | Stake for validation | Pay protocol fees | Compensate validators and maintainers"
+```
+
+4. **Click "Commit changes"** → "Commit directly to main"
+
+---
+
+### **Step 3: Upload Your Logo**
+
+1. **Click "Add file"** → "Upload files"
+2. **Type in the file path field:** `images/`
+3. **Drag and drop** your TAGC logo PNG file
+4. **Make sure it's named:** `tagc-logo.png`
+5. **Click "Commit changes"**
+
+*Optional: Also upload a Tagsy Protocol logo as `tagsy-logo.png` if you have one*
+
+---
+
+### **Step 4: Enable GitHub Pages**
+
+1. **Go to repo Settings** (top menu)
+2. **Click "Pages"** (left sidebar)
+3. **Under "Source":**
+   - Branch: `main`
+   - Folder: `/ (root)`
+4. **Click "Save"**
+5. **Wait 1-2 minutes** for deployment
+
+Your site will be at:
+```
+https://YOUR-GITHUB-USERNAME.github.io/tagc-token/
