@@ -3,7 +3,7 @@ code="TAGC"
 issuer="GDIHIJFAJG2JQBTZ27WRGF6NZWEZRU62OAYVRLMOLFJCPP4RPNWGOMMZ"
 name="Tagsy Protocol"
 desc="TAGC (Tagsy Credit) is the utility token powering the Tagsy Protocol - a product authentication and identity system that enables producers, marketplaces, and validators to cooperate on a shared, verifiable record of products. TAGC is required for all protocol operations including minting product identities, registering sales, and validator staking."
-image="https://tagsydapp.github.io/tagc-token/image/tagc-logo.png"
+image="https://tagsydapp.github.io/tagc-token/images/tagc-logo.png"
 display_decimals=7
 is_unlimited=true
 is_asset_anchored=false
@@ -13,7 +13,7 @@ redemption_instructions="TAGC is a protocol utility token used within the Tagsy 
 [[DOCUMENTATION]]
 org_name="Tagsy Protocol"
 org_url="https://tagsydapp.github.io/tagc-token"
-org_logo="https://tagsydapp.github.io/tagc-token/image/tagsy-logo.png"
+org_logo="https://tagsydapp.github.io/tagc-token/images/tagsy-logo.png"
 org_official_email="tagsyapp@gmail.com"
 
 [[PRINCIPLES]]
